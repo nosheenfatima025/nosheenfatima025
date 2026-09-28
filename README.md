@@ -62,7 +62,7 @@
 | Award | Details |
 |-------|---------|
 | 🥇 **Web Development (Backend) — Grade A+** | Whiz Academy · 2025 |
-| 📜 **Web Development Internship & Training Program** | Devixo Solutions · 2026 · 4/4 tasks completed |
+| 📜 **Web Development Internship & Training Program** | Devixo Solutions · 2026 · Tasks completed |
 | 🎓 **Web Development (Frontend)** | IT PCD Skills · 2023 |
 
 </td>
@@ -87,7 +87,7 @@ Building **StackHub Enterprise**, a microservices & cloud-native full-stack plat
 - **Payments & Events:** Payment webhooks · asynchronous notifications
 - **DevOps:** Docker & containerization · GitHub Actions · CI/CD workflows · deployment · technical documentation
 
-> 💡 *Working on a research paper or writeup? Send it over and I'll add an abstract + link here.*
+>
 
 ---
 
@@ -112,7 +112,7 @@ Building **StackHub Enterprise**, a microservices & cloud-native full-stack plat
 - **[ParkiFy](https://github.com/nosheenfatima025/Parkify)** — AI-powered smart parking system with YOLOv8 ANPR, wallet payments & admin dashboard *(FYP)*
 - **[Project-Management-System](https://github.com/nosheenfatima025/project-management-system)** — MERN PM tool: auth, CRUD, task & team management, reporting, inventory — deployed on Vercel
 - **Student-Management-System** — React, Vite, Node.js, Express, MongoDB · JWT auth · Google OAuth · protected routes
-- **Portfolio-Website** — Responsive personal portfolio built with HTML5, CSS3 & JavaScript
+- **Portfolio-Website** — Responsive personal portfolio built with HTML5, CSS3 & JavaScript https://protfolio-pi-ruby.vercel.app/
 
 <br clear="right"/>
 
