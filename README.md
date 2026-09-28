@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nosheen_Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nosheen-fatima-652056376)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nosheen_Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nosheen-fatima-)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-pi-ruby.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-nosheenfatima025-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nosheenfatima025)
 [![Views](https://komarev.com/ghpvc/?username=nosheenfatima025&style=for-the-badge&color=2ea3f7&label=Profile+Views)](https://github.com/nosheenfatima025)
@@ -162,7 +162,7 @@ Open to **Junior Full Stack Developer · MERN Stack Developer · React / Node.js
 
 Working on a MERN project, microservices, or AI-integrated web apps? Let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nosheen_Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nosheen-fatima-652056376)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nosheen_Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nosheen-fatima-)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-pi-ruby.vercel.app/)
 
 ---
